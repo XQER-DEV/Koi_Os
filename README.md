@@ -18,6 +18,15 @@ To maintain strict hardware optimization and prevent bootloader bricking risks, 
 
 > ⚠️ **CRITICAL WARNING:** This system **DOES NOT** support and will **NEVER** support North American carrier variants (such as SM-N915A, SM-N915T, or SM-N915V). Attempting to flash this kernel onto these devices will result in a hard brick due to permanently locked carrier bootloaders.
 
+
+> ## 💬 OFFICIAL SUGGESTION DISCORD & DEVICE POLL
+
+Want to see Koi_Os running on your device? I am launching a dedicated community server specifically for hardware expansion requests!
+
+* **How it works:** Community members can submit their specific legacy **Samsung models** in a dedicated channel.
+* **The Device Poll:** The highest-voted devices in the community poll will be officially prioritized for baseline target development and testing.
+* **Join the Server:** [🔗 https://discord.gg/Q2JegC5x]
+
 ---
 
 ## 📊 PROTOTYPE DEVELOPMENT STATUS (v0.0.0)
