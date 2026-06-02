@@ -2,7 +2,7 @@
 
 Welcome to the official home of **Koi_Os**—an independent operating system built from scratch for legacy mobile hardware. 
 
-> 🚫 **Android is NOT Linux.** Modern Android has become a heavy, telemetry-bloated container packed with invasive AI models that exhaust device hardware and harvest user data. 
+> 🚫 **Android is NOT Linux.** Modern Android has become a heavy, telemetry-bloated container packed with invasive AI models that exhaust device hardware and harvest user data of course Android IS linux based BUT it dosent even show that it is one or you had to DIG or get an command bar in google play store and also add to that google is closing android from open-source. 
 > 
 > **Koi_Os is the antidote:** A stripped-down, ultra-optimized, mainline Linux kernel decoupled from Google and Samsung ecosystems. Our core engineering directive is to guarantee a **25+ year functional hardware lifecycle**.
 
