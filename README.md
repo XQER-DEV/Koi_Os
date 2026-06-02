@@ -16,7 +16,7 @@ To maintain strict hardware optimization and prevent bootloader bricking risks, 
 * **Samsung Galaxy Note Edge (SM-N915FY)** — *Active Primary Testbed*
 * **Samsung Galaxy Note Edge (SM-N915F)** — *Fully Compatible (International Platform)*
 
-> ⚠️ **CRITICAL WARNING:** This system **DOES NOT** support and will **NEVER** support North American carrier variants (such as SM-N915A, SM-N915T, or SM-N915V). Attempting to flash this kernel onto these devices will result in a hard brick due to permanently locked carrier bootloaders.
+> ⚠️ **CRITICAL WARNING:** This system **DOES NOT** support and we **MIGHT** ****NOT**** support North American carrier variants (such as SM-N915A, SM-N915T, or SM-N915V). Attempting to flash this kernel onto these devices will result **60-99%** in a hard brick due to permanently locked carrier bootloaders.
 
 
 > ## 💬 OFFICIAL SUGGESTION DISCORD & DEVICE POLL
